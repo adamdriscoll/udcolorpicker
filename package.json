@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "universal-dashboard": "^1.0.1"
+    "react-color": "^2.19.3",
+    "universal-dashboard": "^1.1.2"
   },
   "devDependencies": {
     "@babel/core": "7.1.2",
