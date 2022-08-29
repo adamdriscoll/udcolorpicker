@@ -2,6 +2,8 @@
 
 Color picker for Universal Dashboard.
 
+![](./screenshot.png)
+
 ## Install
 
 ```powershell
